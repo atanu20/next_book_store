@@ -293,7 +293,7 @@ section {
 }
 
 .home {
-  background: url(http://localhost:3000/image/banner-bg.jpg) no-repeat;
+  background: url(https://next-book-store.vercel.app/image/banner-bg.jpg) no-repeat;
   background-size: cover;
   background-position: center;
 }
@@ -463,7 +463,7 @@ section {
 }
 
 .newsletter {
-  background: url(http://localhost:3000/image/letter-bg.jpg) no-repeat;
+  background: url(https://next-book-store.vercel.app/image/letter-bg.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
